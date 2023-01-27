@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/high-card-bootcamp/static/css/main.f052a789.css",
-    "main.js": "/high-card-bootcamp/static/js/main.cae56647.js",
+    "main.js": "/high-card-bootcamp/static/js/main.6d0c04ff.js",
     "static/media/poker-cards.png": "/high-card-bootcamp/static/media/poker-cards.c5f62489cb4037614b85.png",
     "index.html": "/high-card-bootcamp/index.html",
     "main.f052a789.css.map": "/high-card-bootcamp/static/css/main.f052a789.css.map",
-    "main.cae56647.js.map": "/high-card-bootcamp/static/js/main.cae56647.js.map"
+    "main.6d0c04ff.js.map": "/high-card-bootcamp/static/js/main.6d0c04ff.js.map"
   },
   "entrypoints": [
     "static/css/main.f052a789.css",
-    "static/js/main.cae56647.js"
+    "static/js/main.6d0c04ff.js"
   ]
 }
